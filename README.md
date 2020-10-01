@@ -1,8 +1,7 @@
-Ma recette pour bien cuisiner une API sous Symfony !
+Recette perso pour bien cuisiner une API sous Symfony !
 
 Process de création du projet et d'installation des bundles.
-
-  `Installation vierge, prête à l'emploi & sans aucune configuration`
+  Installation vierge, prête à l'emploi & sans aucune configuration
 
 Prérequis :
 
