@@ -4,18 +4,15 @@ Process de création du projet et d'installation des bundles.
 
   `Installation vierge, prête à l'emploi & sans aucune configuration`
 
-
 Prérequis :
 
 Installation de Symfony (sous Windows)
 
   https://symfony.com/download
 
-
 Installation de Composer :
 
   https://getcomposer.org/download/
-
 
 Open terminal:
 
@@ -39,18 +36,15 @@ Open terminal:
 
 `symfony serve`
 
-
 Dans le navigateur :
 
   Accès au projet symfony :
   
     `localhost:8000`
 
-
   Accès à la documentation de l'API :
   
     `localhost:8000/api`
-    
     
 A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tout le reste...
 
