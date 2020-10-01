@@ -60,6 +60,6 @@ A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tou
   
   Créer la base de données
   
-  Gérer la sécurité, l'authentification, les routes...
+  Gérer la sécurité, l'authentification, les routes... 
   
   Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres...)
