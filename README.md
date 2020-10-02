@@ -23,7 +23,7 @@ Open terminal:
 
 `composer req symfony/orm-pack`
 
-`composer req -- symfony/maker-bundle`
+`composer req --dev symfony/maker-bundle`
 
 `composer req symfony/http:client`
 
