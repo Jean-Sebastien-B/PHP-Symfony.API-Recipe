@@ -13,7 +13,7 @@ Installation de Composer :
 
   https://getcomposer.org/download/
 
-Open terminal:
+Open terminal (cmder pour ma part):
 
 `symfony check:requirements`
 
