@@ -33,7 +33,7 @@ Open terminal:
 
 `composer req api`
 
-`symfony serve`
+`symfony serve`ou `php -S localhost:8000 -t public`
 
 Dans le navigateur :
 
