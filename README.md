@@ -9,9 +9,11 @@ Installation de Symfony (sous Windows)
 
   https://symfony.com/download
 
-Installation de Composer :
+Installation de Composer
 
   https://getcomposer.org/download/
+
+Création du projet :
 
 Open terminal (cmder pour ma part):
 
