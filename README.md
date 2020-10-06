@@ -49,7 +49,7 @@ A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tou
 
   Configurer le connecteur à la base de données
   
-  Créer les entités
+  Créer les entités & leurs relations
   
   Créer la base de données
   
