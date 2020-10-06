@@ -35,6 +35,8 @@ Open terminal (cmder pour ma part):
 
 `composer req api`
 
+`composer req symfony/apache-pack`
+
 `symfony serve`ou `php -S localhost:8000 -t public`
 
 Dans le navigateur :
