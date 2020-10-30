@@ -24,7 +24,7 @@ Installation de Composer
 Création du projet :
 
 Open terminal (cmder pour ma part):<br>
-<i>Téléchargeable à cette adresse :</i> `https://cmder.net/`
+<i>Téléchargeable à cette adresse :</i> https://cmder.net/
 
 `symfony check:requirements`<br>
 `symfony new nom-de-votre-api`<br>
