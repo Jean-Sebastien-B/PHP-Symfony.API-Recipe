@@ -7,7 +7,7 @@ Le bundle psysh n'est utile que si vous appréciez d'effectuer vos requêtes sql
 
 
 Ce qui suit n'est qu'un process de création de projet & d'installation des bundles que j'utilise le plus fréquemment.<br>
-<u>A la fin du process, vous obtenez une installation complète, vierge, prête à l'emploi, mais à ce stade, sans aucune configuration !</u>
+<b>A la fin du process, vous obtenez une installation complète, vierge, prête à l'emploi, mais à ce stade, sans aucune configuration !</b>
 
 Prérequis :
 
@@ -55,5 +55,5 @@ A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tou
   Créer la base de données</br>
   Gérer la sécurité, l'authentification, les routes... </br>
   Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres...)</br>
-  Et par pitié ! <u>Commentez & documentez votre code</u> !
+  Et par pitié ! <b>Commentez & documentez votre code</b> !
   ...
