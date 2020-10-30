@@ -55,4 +55,5 @@ A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tou
   Créer la base de données</br>
   Gérer la sécurité, l'authentification, les routes... </br>
   Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres...)</br>
+  Et par pitié ! <u>Commentez & documentez votre code</u> !
   ...
