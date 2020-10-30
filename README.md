@@ -23,8 +23,8 @@ Open terminal (cmder pour ma part):<br>
 <i>Téléchargeable à cette adresse :</i> https://cmder.net/
 
 `symfony check:requirements`<br>
-`symfony new nom-de-votre-api` //A faire là où vous souhaitez créer votre projet, logiquement, dans votre Workspace...<br>
-`cd nom-de-votre-api` //Vous placer à la racine de votre projet. Là aussi, c'est assez logique !<br>
+`symfony new nom-de-votre-api` <i>A faire là où vous souhaitez créer votre projet, logiquement, dans votre Workspace...</i><br>
+`cd nom-de-votre-api` <i>Vous placer à la racine de votre projet. Là aussi, c'est assez logique !</i><br>
 
 C'est maintenant que tout commence :<br>
 `composer req symfony/orm-pack`<br>
