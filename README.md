@@ -1,5 +1,4 @@
-Recette perso pour bien cuisiner une API sous Symfony !
-
+Recette perso pour bien cuisiner une API sous Symfony !<br>
 Certains bundles de cette recette ne sont pas obligatoires et dépendent surtout des besoins :
 
 <i>Le bundle easyadmin n'est utile que si vous désirez un Dashboard pour manipuler aisément vos entités.
@@ -8,8 +7,9 @@ Le bundle ldap n'est utile que si vous avez besoin de vous connecter à un ldap 
 
 Le bundle psysh n'est utile que si vous appréciez d'effectuer vos requêtes sql de cette manière, au sein d'un terminal. </i>
 
-Process de création du projet et d'installation des bundles.
-  Installation vierge, prête à l'emploi & sans aucune configuration
+
+Ce qui suit n'est qu'un process de création de projet & d'installation des bundles que j'utilise le plus fréquemment.<br>
+<u>A la fin du process, vous obtenez une installation complète, vierge, prête à l'emploi, mais à ce stade, sans aucune configuration !</u>
 
 Prérequis :
 
@@ -25,32 +25,19 @@ Création du projet :
 
 Open terminal (cmder pour ma part):
 
-`symfony check:requirements`
-
-`symfony new nom-de-votre-api`
-
-`cd nom-de-votre-api`
-
-`composer req symfony/orm-pack`
-
-`composer req --dev symfony/maker-bundle`
-
-`composer req psy/psysh:@stable --dev`
-
-`composer req symfony/http:client`
-
-`composer req symfony/http:foundation`
-
-`composer req symfony/security-bundle`
-
-`composer req lexik/jwt-authentication-bundle`
-
-`composer req symfony/ldap`
-
-`composer req api`
-
-`composer req symfony/apache-pack`
-
+`symfony check:requirements`<br>
+`symfony new nom-de-votre-api`<br>
+`cd nom-de-votre-api`<br>
+`composer req symfony/orm-pack`<br>
+`composer req --dev symfony/maker-bundle`<br>
+`composer req psy/psysh:@stable --dev`<br>
+`composer req symfony/http:client`<br>
+`composer req symfony/http:foundation`<br>
+`composer req symfony/security-bundle`<br>
+`composer req lexik/jwt-authentication-bundle`<br>
+`composer req symfony/ldap`<br>
+`composer req api`<br>
+`composer req symfony/apache-pack`<br>
 `composer req easycorp/easyadmin-bundle`
 
 `symfony serve`ou `php -S localhost:8000 -t public`
