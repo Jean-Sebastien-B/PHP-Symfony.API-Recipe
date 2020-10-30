@@ -27,8 +27,10 @@ Open terminal (cmder pour ma part):<br>
 <i>Téléchargeable à cette adresse :</i> https://cmder.net/
 
 `symfony check:requirements`<br>
-`symfony new nom-de-votre-api`<br>
-`cd nom-de-votre-api`<br>
+`symfony new nom-de-votre-api` //A faire là où vous souhaitez créer votre projet, logiquement, dans votre Workspace...<br>
+`cd nom-de-votre-api` //Vous placer à la racine de votre projet. Là aussi, c'est assez logique !<br>
+
+C'est maintenant que tout commence :<br>
 `composer req symfony/orm-pack`<br>
 `composer req --dev symfony/maker-bundle`<br>
 `composer req psy/psysh:@stable --dev`<br>
@@ -41,28 +43,20 @@ Open terminal (cmder pour ma part):<br>
 `composer req symfony/apache-pack`<br>
 `composer req easycorp/easyadmin-bundle`
 
+Demarrage du serveur :</br>
 `symfony serve`ou `php -S localhost:8000 -t public`
 
-Dans le navigateur :
-
-  Accès au projet symfony :
-  
+Dans le navigateur :</br>
+  Accès au projet symfony :</br>
     `localhost:8000`
 
-  Accès à la documentation de l'API :
-  
+  Accès à la documentation de l'API :</br>
     `localhost:8000/api`
     
-A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tout le reste...
-
-  Configurer le connecteur à la base de données
-  
-  Créer les entités & leurs relations
-  
-  Créer la base de données
-  
-  Gérer la sécurité, l'authentification, les routes... 
-  
-  Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres...)
-  
+A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tout le reste...</br>
+  Configurer le connecteur à la base de données</br>
+  Créer les entités & leurs relations</br>
+  Créer la base de données</br>
+  Gérer la sécurité, l'authentification, les routes... </br>
+  Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres...)</br>
   ...
