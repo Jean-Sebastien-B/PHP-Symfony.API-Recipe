@@ -1,11 +1,9 @@
 Recette perso pour bien cuisiner une API sous Symfony !<br>
 Certains bundles de cette recette ne sont pas obligatoires et dépendent surtout des besoins :
 
-<i>Le bundle easyadmin n'est utile que si vous désirez un Dashboard pour manipuler aisément vos entités.
-
-Le bundle ldap n'est utile que si vous avez besoin de vous connecter à un ldap ou un AD.
-
-Le bundle psysh n'est utile que si vous appréciez d'effectuer vos requêtes sql de cette manière, au sein d'un terminal. </i>
+<i>Le bundle easyadmin n'est utile que si vous désirez un Dashboard pour manipuler aisément vos entités.</br>
+Le bundle ldap n'est utile que si vous avez besoin de vous connecter à un ldap ou un AD.</br>
+Le bundle psysh n'est utile que si vous appréciez d'effectuer vos requêtes sql de cette manière, au sein d'un terminal.</br></i>
 
 
 Ce qui suit n'est qu'un process de création de projet & d'installation des bundles que j'utilise le plus fréquemment.<br>
