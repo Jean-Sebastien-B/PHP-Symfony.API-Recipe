@@ -28,6 +28,13 @@ Open terminal (cmder pour ma part):<br>
 
 C'est maintenant que tout commence :<br>
 `composer req symfony/orm-pack`<br>
+  <i>Si vous avez un message concernant le package Zend (utilisé par ocramius) et vous demandant d'installer Laminas</i> :
+    Si vous êtes en PHP <7 :
+      `composer upgrade`
+    Pour les versions >=7 : 
+      `composer req laminas/laminas-eventmanager`
+      `composer req laminas/laminas-code`
+
 `composer req --dev symfony/maker-bundle`<br>
 `composer req psy/psysh:@stable --dev`<br>
 `composer req symfony/http:client`<br>
