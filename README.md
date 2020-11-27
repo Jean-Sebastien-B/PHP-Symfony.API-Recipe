@@ -37,8 +37,8 @@ C'est maintenant que tout commence :<br>
 
 `composer req --dev symfony/maker-bundle`<br>
 `composer req psy/psysh:@stable --dev`<br>
-`composer req symfony/http:client`<br>
-`composer req symfony/http:foundation`<br>
+`composer req symfony/http-client`<br>
+`composer req symfony/http-foundation`<br>
 `composer req symfony/security-bundle`<br>
 `composer req lexik/jwt-authentication-bundle`<br>
 `composer req symfony/ldap`<br>
