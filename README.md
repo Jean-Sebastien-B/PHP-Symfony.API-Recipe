@@ -65,6 +65,6 @@ A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tou
   - Créer les entités & leurs relations</br>
   - Mettre à jour la base de données, via 'doctrine:schema:update --force' directement ou en utilisant les migrations</br>
   - Gérer la sécurité, l'authentification, les routes... </br>
-  - Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres, Assert...)</br>
+  - Configurer plus finement les ressources exposées (<i>Exposition des ressources & sous-ressources, validation, filtres, Assert...</i>)</br>
   - Et par pitié ! <b>Commentez & documentez votre code</b> !
   ...
