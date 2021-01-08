@@ -46,7 +46,7 @@ C'est maintenant que tout commence :<br>
 `composer req symfony/ldap`<br>
 `composer req api`<br>
 `composer req symfony/apache-pack`<br>
-`composer require nelmio/cors-bundle`<br>
+`composer req nelmio/cors-bundle`<br>
 `composer req easycorp/easyadmin-bundle`
 
 Demarrage du serveur :</br>
