@@ -3,7 +3,7 @@ Certains bundles de cette recette ne sont pas obligatoires et dépendent surtout
 
 <i>Le bundle easyadmin n'est utile que si vous désirez un Dashboard pour manipuler aisément vos entités.</br>
 Le bundle ldap n'est utile que si vous avez besoin de vous connecter à un ldap ou un AD.</br>
-Le bundle psysh n'est utile que si vous appréciez d'effectuer vos requêtes sql de cette manière, au sein d'un terminal.</br></i>
+Le bundle psysh n'est utile que si vous appréciez d'effectuer vos requêtes sql de cette manière, au sein d'un terminal.</br>
 Le bundle cors n'est utile que si vous d'installer l'Api et l'IHM sur le même réseau. Règle le problème de 'Cross-Origin Resource Sharing'</br></i>
 
 
