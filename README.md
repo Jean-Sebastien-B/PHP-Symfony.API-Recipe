@@ -60,11 +60,11 @@ Dans le navigateur :</br>
     `localhost:8000/api`
     
 A ce stade, tout est prêt pour bien commencer. Il ne reste plus qu'à faire tout le reste...</br>
-  Configurer le connecteur à la base de données</br>
-  Créer la base de données</br>
-  Créer les entités & leurs relations</br>
-  Mettre à jour la base de données, via 'doctrine:schema:update --force' directement ou en utilisant les migrations</br>
-  Gérer la sécurité, l'authentification, les routes... </br>
-  Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres, Assert...)</br>
-  Et par pitié ! <b>Commentez & documentez votre code</b> !
+  - Configurer le connecteur à la base de données</br>
+  - Créer la base de données</br>
+  - Créer les entités & leurs relations</br>
+  - Mettre à jour la base de données, via 'doctrine:schema:update --force' directement ou en utilisant les migrations</br>
+  - Gérer la sécurité, l'authentification, les routes... </br>
+  - Configurer plus finement les ressources exposées (Exposition des ressources & sous-ressources, validation, filtres, Assert...)</br>
+  - Et par pitié ! <b>Commentez & documentez votre code</b> !
   ...
