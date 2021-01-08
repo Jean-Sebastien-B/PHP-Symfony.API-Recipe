@@ -5,7 +5,7 @@ Certains bundles de cette recette ne sont pas obligatoires et dépendent surtout
 Le bundle ldap n'est utile que si vous avez besoin de vous connecter à un ldap ou un AD.</br>
 Le bundle psysh n'est utile que si vous appréciez d'effectuer vos requêtes sql de cette manière, au sein d'un terminal.</br>
 Le bundle cors n'est utile que si vous envisagez d'installer l'Api & l'IHM sur le même réseau. Règle le problème de 'Cross-Origin Resource Sharing'.</br>
-Le bundle jwt n'est utile que si vous préférez gérer l'authentification et vos token avec lui plutôt qu'avec le maker via 'make:auth'.</br></i>
+Le bundle jwt n'est utile que si vous préférez gérer l'authentification & vos tokens avec lui plutôt qu'avec le maker, via 'make:auth'.</br></i>
 
 
 Ce qui suit n'est qu'un process de création de projet & d'installation des bundles que j'utilise le plus fréquemment.<br>
