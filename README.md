@@ -14,10 +14,10 @@ Ce qui suit n'est qu'un process de création de projet & d'installation des bund
 Prérequis :
 
 Installation de Symfony (sous Windows)</br>
-  https://symfony.com/download
+  `https://symfony.com/download`
 
 Installation de Composer</br>
-  https://getcomposer.org/download/
+  `https://getcomposer.org/Composer-Setup.exe`
 
 Création du projet :
 
