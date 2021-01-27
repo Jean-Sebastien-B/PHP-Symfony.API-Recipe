@@ -38,6 +38,7 @@ C'est maintenant que tout commence :<br>
       `composer req laminas/laminas-code`<br>
 
 `composer req --dev symfony/maker-bundle`<br>
+`composer req profiler --dev`<br>
 `composer req psy/psysh:@stable --dev`<br>
 `composer req symfony/http-client`<br>
 `composer req symfony/http-foundation`<br>
